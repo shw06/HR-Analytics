@@ -23,14 +23,14 @@ I downloaded the data source from here.
         <li>age: Employee's age calculated from the birthdate (integer)</li>
     </ul>
 
-    <h2>Installation</h2>
+<h2>Installation</h2>
     <ul>
         <li>Clone this repository: git clone https://github.com/shw@06/HR-Analytics.git</li>
         <li>Set up the MySQL database and import the HR data from data.csv.</li>
         <li>Open the Power BI project file hr_analytics_report.pbix in Power BI Desktop.</li>
     </ul>
 
-    <h2>Project Structure</h2>
+<h2>Project Structure</h2>
     <p>The project repository is organized as follows:</p>
     <ul>
         <li>hr_analytics_report.pbix: Power BI project file containing the HR analytics report.</li>
@@ -39,11 +39,11 @@ I downloaded the data source from here.
         <li>visualizations/: Directory containing screenshots or images of key visualizations from the report.</li>
     </ul>
 
-    <h2>Data Preprocessing</h2>
+<h2>Data Preprocessing</h2>
     <p>Before importing the data into Power BI, it is essential to perform data preprocessing using the SQL script data_preprocessing.sql. 
         The preprocessing steps include cleaning the data, handling missing values, and calculating additional metrics like age from birthdate.</p>
 
-    <h2>HR Analytics Insights</h2>   
+<h2>HR Analytics Insights</h2>   
         Here are some of the key HR analytics insights obtained from the data:
         
         Employee attrition rate and factors influencing turnover.
@@ -54,14 +54,14 @@ I downloaded the data source from here.
         Employee engagement and satisfaction levels.
 
         
-    <h2>Dashboard and Visualizations</h2>
+<h2>Dashboard and Visualizations</h2>
     <p>Power BI report includes interactive dashboards and visualizations that allow users to explore HR analytics insights visually.</p> 
         
-    <h3>Sample Visualization</h3>  
+<h3>Sample Visualization</h3>  
         
-    <h2>Contributing</h2>
+<h2>Contributing</h2>
     <p>Contributions to this project are welcome. Feel free to open issues or submit pull requests for improvements or new features.</p>
         
         
-    <h2>License</h2>
+<h2>License</h2>
     <p>This project is licensed under the <a href="">MIT License</a> </p>
