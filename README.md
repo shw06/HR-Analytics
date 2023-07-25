@@ -4,6 +4,8 @@
 <p>This project aims to perform HR analytics using MySQL and Power BI to gain valuable insights into the organization's human resources data. By analyzing various HR metrics, we can make data-driven decisions to improve employee retention, performance, and overall organizational efficiency.</p>
 
 <h2>Data Source</h2>
+
+I downloaded the data source from here.
     <ul>
         <li>emp_id: Employee ID (varchar)</li>
         <li>first_name: Employee's first name (text)</li>
@@ -23,7 +25,7 @@
 
     <h2>Installation</h2>
     <ul>
-        <li>Clone this repository: git clone https://github.com/your-username/hr-analytics-project.git</li>
+        <li>Clone this repository: git clone https://github.com/shw@06/HR-Analytics.git</li>
         <li>Set up the MySQL database and import the HR data from data.csv.</li>
         <li>Open the Power BI project file hr_analytics_report.pbix in Power BI Desktop.</li>
     </ul>
