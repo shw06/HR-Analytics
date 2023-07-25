@@ -1,0 +1,14 @@
+department,employees_left,total_employees,turnover_rate
+Auditing,12,52,23.08%
+Legal,63,311,20.26%
+"Research and Development",212,1084,19.56%
+Support,182,954,19.08%
+Sales,335,1832,18.29%
+"Product Management",114,641,17.78%
+Engineering,1185,6686,17.72%
+Accounting,586,3333,17.58%
+Services,293,1686,17.38%
+Training,291,1692,17.20%
+"Human Resources",309,1807,17.10%
+"Business Development",275,1642,16.75%
+Marketing,72,494,14.57%

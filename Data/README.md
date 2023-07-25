@@ -35,7 +35,7 @@ I downloaded the data source from here.
     <ul>
         <li>hr_analytics_report.pbix: Power BI project file containing the HR analytics report.</li>
         <li>data/: Directory containing the data file (data.csv) used for analysis.</li>
-        <li>scripts/: Directory containing SQL scripts and CSV's used for data preprocessing and transformation.</li>
+        <li>scripts/: Directory containing SQL scripts used for data preprocessing and transformation.</li>
         <li>visualizations/: Directory containing screenshots or images of key visualizations from the report.</li>
     </ul>
 
