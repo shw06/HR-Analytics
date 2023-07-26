@@ -43,15 +43,38 @@ I downloaded the data source from <a href="https://github.com/abhishek201294/HR-
     <p>Before importing the data into Power BI, it is essential to perform data preprocessing using the SQL script data_preprocessing.sql. 
         The preprocessing steps include cleaning the data, handling missing values, and calculating additional metrics like age from birthdate.</p>
 
-<h2>HR Analytics Insights</h2>   
-        Here are some of the key HR analytics insights obtained from the data:
+<h2>HR Analytics Insights</h2>
+<h3>Questions</h3>
+    <ol>
+        <li>What is the gender breakdown of employees in the company ?</li>
+        <li>What is the race/ethenicity breakdown of the company ?</li>
+        <li>What is the age distribution in the company ?</li>
+        <li>How many employees work at headquaters or remote locations ?</li>
+        <li>What is the average length of employement for employees who have been terminated ?</li>
+        <li>How does gender distribution vary across departments and job titles ?</li>
+        <li>What is the distribution of job titles in the company ?</li>
+        <li>What is the distribution of employees across location by city and state ?</li>
+        <li>Total number of employees</li>
+        <li>How many active employees are there</li>
+    </ol>
+
+
+Here are some of the key HR analytics insights obtained from the data:
+
+<ul>
+    <li>There are about 22K+ total employees of which around 20K are active.</li>
+    <li>The average length of employement is of 8 years.</li>
+    <li>The gender distribution is well balanced but male employees are more than female employees.</li>
+    <li>74% of the workforce works from Headquaters than remote.</li>
+    <li>The youngest employee is 20 years a=old and the oldest employee is 57 years old.</li>
+    <li>5 age groups are created: 18-25, 26-35, 36-45, 46-55,56-65</li>
+    <li>A large numbers of employees are from 26-35, 36-45 and 46-55 age groups.</li>
+    <li>White race is the more dominant while Native hawaiian is the lowest.</li>
+    <li>A large number of employees come from Ohio state.</li>
+    <li>The most employees are from Engineering department followed by Accounting while 
+        the least number of employees come from Marketing, Legal and Auditing department.</li>
+</ul>
         
-        Employee attrition rate and factors influencing turnover.
-        Recruitment efficiency and the impact of different hiring channels.
-        Employee performance analysis by department and job title.
-        Compensation and benefits analysis.
-        Diversity and inclusion metrics.
-        Employee engagement and satisfaction levels.
 
         
 <h2>Dashboard and Visualizations</h2>
