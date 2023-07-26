@@ -26,8 +26,8 @@ I downloaded the data source from <a href="https://github.com/abhishek201294/HR-
 <h2>Installation</h2>
     <ul>
         <li>Clone this repository: git clone https://github.com/shw06/HR-Analytics.git</li>
-        <li>Set up the MySQL database and import the HR data from data.csv.</li>
-        <li>Open the Power BI project file hr_analytics_report.pbix in Power BI Desktop.</li>
+        <li>Set up the MySQL database and import the HR data from Human Resources.csv.</li>
+        <li>Open the Power BI project file HR_dashboard.pbix in Power BI Desktop.</li>
     </ul>
 
 <h2>Project Structure</h2>
