@@ -5,7 +5,7 @@
 
 <h2>Data Source</h2>
 
-I downloaded the data source from here.
+I downloaded the data source from <a href="https://github.com/abhishek201294/HR-analytics-Dashboard/blob/main/Human%20Resources.csv">here</a>.
     <ul>
         <li>emp_id: Employee ID (varchar)</li>
         <li>first_name: Employee's first name (text)</li>
@@ -33,8 +33,8 @@ I downloaded the data source from here.
 <h2>Project Structure</h2>
     <p>The project repository is organized as follows:</p>
     <ul>
-        <li>hr_analytics_report.pbix: Power BI project file containing the HR analytics report.</li>
-        <li>data/: Directory containing the data file (data.csv) used for analysis.</li>
+        <li>HR_dashboard.pbix: Power BI project file containing the HR analytics report.</li>
+        <li>data/: Directory containing the data file (Human Resources.csv) used for analysis.</li>
         <li>scripts/: Directory containing SQL scripts and CSV's used for data preprocessing and transformation.</li>
         <li>visualizations/: Directory containing screenshots or images of key visualizations from the report.</li>
     </ul>
@@ -62,6 +62,3 @@ I downloaded the data source from here.
 <h2>Contributing</h2>
     <p>Contributions to this project are welcome. Feel free to open issues or submit pull requests for improvements or new features.</p>
         
-        
-<h2>License</h2>
-    <p>This project is licensed under the <a href="">MIT License</a> </p>
