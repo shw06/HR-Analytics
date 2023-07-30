@@ -40,7 +40,7 @@ I downloaded the data source from <a href="https://github.com/abhishek201294/HR-
     </ul>
 
 <h2>Data Preprocessing</h2>
-    <p>Before importing the data into Power BI, it is essential to perform data preprocessing using the SQL script data_preprocessing.sql. 
+    <p>Before importing the data into Power BI, it is essential to perform data preprocessing using the SQL script data_cleaning.sql. 
         The preprocessing steps include cleaning the data, handling missing values, and calculating additional metrics like age from birthdate.</p>
 
 <h2>HR Analytics Insights</h2>
