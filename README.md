@@ -81,6 +81,7 @@ Here are some of the key HR analytics insights obtained from the data:
     <p>Power BI report includes interactive dashboards and visualizations that allow users to explore HR analytics insights visually.</p> 
         
 <h3>Sample Visualization</h3>  
+<img src="\visualization\viz.png">
         
 <h2>Contributing</h2>
     <p>Contributions to this project are welcome. Feel free to open issues or submit pull requests for improvements or new features.</p>
